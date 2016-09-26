@@ -4,8 +4,7 @@
 
 ## Use case
 
-I've started building projects that utilize [Docker](https://www.docker.com/) and organizing the repositor
-ies based on the Docker containers. A simple project might have the following structure:
+I've started building projects that utilize [Docker](https://www.docker.com/) and organizing the repositories based on the Docker containers. A simple project might have the following structure:
 
 ```
 project
